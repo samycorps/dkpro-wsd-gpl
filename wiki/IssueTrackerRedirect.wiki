@@ -1,1 +1,1 @@
-*The issues for DKPro WSD GPL are tracked in the [https://code.google.com/p/dkpro-wsd/issues/list DKPro WSD ASL issue tracker] and marked with "DKPro-WSD".*
+*The issues for DKPro WSD GPL are tracked in the [https://code.google.com/p/dkpro-wsd/issues/list DKPro WSD ASL issue tracker] and marked with "DKPro-WSD-GPL".*
